@@ -1,2 +1,3 @@
 # hello-world
-just another repositry
+Hi!
+I love to code in python.
